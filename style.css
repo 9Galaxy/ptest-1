@@ -1,1 +1,4 @@
-body {background: rgb(red, green, blue);}
+body {
+  background: rgb(red, green, blue);
+  margin: 20px;
+}
